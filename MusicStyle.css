@@ -87,6 +87,9 @@ img.center {
 
 }
 
+.discloser{
+    text-align: center;
+}
 
 
 .grid-container{
@@ -106,8 +109,8 @@ img.center {
 .grid-professional{
     display: grid;
     grid-template-columns: auto auto;
-    grid-row-gap: 10px;
-    grid-column-gap: 10px;
+    grid-row-gap: 20px;
+    grid-column-gap: 20x;
     justify-content: center
 }
 
