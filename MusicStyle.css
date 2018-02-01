@@ -103,6 +103,13 @@ img.center {
     width: 400px;
 }
 
+.grid-professional{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    justify-content: center
+}
 
 .reviews{
     display: grid;
@@ -114,4 +121,38 @@ img.center {
 .review-item{
     font-family: URW Chancery L, cursive;
     font-size: 30px;
+}
+
+
+
+/* Required to format the Text like Mother's Live Site and save me 10 hours of changing tags*/
+
+
+.Heading-1-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:center; font-weight:400;
+}
+.Heading-1-C
+{
+    font-family:"Parisian BT", serif; font-size:32.0px; line-height:1.22em;
+}
+.Heading-C
+{
+    font-family:"Parisian BT", serif; font-size:40.0px; line-height:1.20em;
+}
+.Body-C
+{
+    font-family:"Calibri", sans-serif; font-size:16.0px; line-height:1.40em;
+}
+.Body-C-C0
+{
+    font-family:"Calibri", sans-serif; font-weight:700; font-size:16.0px; line-height:1.40em;
+}
+.Artistic-Body-C
+{
+    font-family:"Calibri", sans-serif; font-size:15.0px; line-height:1.40em;
+}
+.Artistic-Body-C-C0
+{
+    font-family:"Calibri", sans-serif; font-style:italic; font-size:15.0px; line-height:1.40em;
 }
