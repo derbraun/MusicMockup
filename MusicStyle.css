@@ -35,7 +35,7 @@ nav li{
 
 nav li a{
     display: block;
-    padding: 10px 100px;
+    padding: 10px 150px;
     font-family: fantasy;
 }
 
@@ -74,6 +74,21 @@ img{
     width: auto\9; /*ie8 */
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+#bannerimage {
+    width: 100%;
+    background-image: url(Photos/staff.jpg);
+    height: 405px;
+    background_position: center;
+
+}
+
+
+
 .grid-container{
     display: grid;
     grid-template-columns: auto auto auto;
@@ -85,7 +100,7 @@ img{
 
 .grid-item img{
     height: 300px;
-    width: 500px;
+    width: 400px;
 }
 
 
