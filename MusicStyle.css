@@ -87,7 +87,7 @@ img.center {
 
 }
 
-.discloser{
+.center{
     text-align: center;
 }
 
@@ -96,8 +96,8 @@ img.center {
     display: grid;
     grid-template-columns: auto auto auto;
     padding: 10px;
-    grid-row-gap: 10px;
-    grid-column-gap: 10px;
+    grid-row-gap: 40px;
+    grid-column-gap: 40px;
     justify-content: center;
 }
 
@@ -126,6 +126,29 @@ img.center {
     font-size: 30px;
 }
 
+
+#menu-outer{
+    height 84px;
+}
+
+.table{
+    display:table;
+    margin: 0 auto;
+
+
+}
+
+ul#horizontal-list{
+    min-width: 696px;
+    list-style none;
+    padding-top: 20px;
+
+}
+
+ul#horizontal-list li{
+    display inline;
+
+}
 
 
 /* Required to format the Text like Mother's Live Site and save me 10 hours of changing tags*/
