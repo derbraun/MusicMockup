@@ -128,7 +128,7 @@ img.center {
 
 
 #menu-outer{
-    height 84px;
+align-self:center;
 }
 
 .table{
@@ -136,17 +136,22 @@ img.center {
     margin: 0 auto;
 
 
+
 }
 
 ul#horizontal-list{
     min-width: 696px;
-    list-style none;
+    list-style: none;
     padding-top: 20px;
+    text-align: center;
+    margin: 0 auto;
 
 }
 
 ul#horizontal-list li{
-    display inline;
+    display: inline;
+    text-align: center;
+    margin: 0 auto;
 
 }
 
@@ -162,10 +167,33 @@ ul#horizontal-list li{
 {
     font-family:"Parisian BT", serif; font-size:32.0px; line-height:1.22em;
 }
+.Heading-3-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Artistic-Body-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400; text-indent:33.0px;
+}
+.Artistic-Body-P-P0
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400; text-indent:48.0px;
+}
+.Heading-1-C
+{
+    font-family:"Parisian BT", serif; font-size:32.0px; line-height:1.22em;
+}
+
 .Heading-C
 {
     font-family:"Parisian BT", serif; font-size:40.0px; line-height:1.20em;
 }
+
+.Heading-3-C
+{
+    font-family:"Verdana", sans-serif; font-weight:700; font-size:16.0px; line-height:1.13em;
+}
+
 .Body-C
 {
     font-family:"Calibri", sans-serif; font-size:16.0px; line-height:1.40em;

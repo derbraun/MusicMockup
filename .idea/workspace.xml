@@ -4,7 +4,18 @@
     <bookmark url="file://$PROJECT_DIR$/MusicStyle.css" line="78" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="060ee8f4-41ef-46af-b058-7d1e4fa9537a" name="Default" comment="" />
+    <list default="true" id="060ee8f4-41ef-46af-b058-7d1e4fa9537a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxHollow.html" afterPath="$PROJECT_DIR$/FoxHollow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxHollow3rd.html" afterPath="$PROJECT_DIR$/FoxHollow3rd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxHollow4th.html" afterPath="$PROJECT_DIR$/FoxHollow4th.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxHollow5th.html" afterPath="$PROJECT_DIR$/FoxHollow5th.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoxHollow6th.html" afterPath="$PROJECT_DIR$/FoxHollow6th.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kindergarten.html" afterPath="$PROJECT_DIR$/Kindergarten.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicStyle.css" afterPath="$PROJECT_DIR$/MusicStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foxHollow1st.html" afterPath="$PROJECT_DIR$/foxHollow1st.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foxHollow2nd.html" afterPath="$PROJECT_DIR$/foxHollow2nd.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,62 +25,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MusicStyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+            <state relative-caret-position="541">
+              <caret line="130" column="17" lean-forward="false" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FoxHollow.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FoxHollow.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FoxHollow.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="70" column="88" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="70" selection-end-column="88" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoxHollow5th.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FoxHollow5th.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoxHollow6th.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FoxHollow6th.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kindergarten.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kindergarten.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foxHollow2nd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foxHollow2nd.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfessionalDevelopment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalDevelopment.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="42" selection-end-column="6" />
-              <folding />
+              <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,23 +104,23 @@
         <option value="$PROJECT_DIR$/Fox Hollow2nd.html" />
         <option value="$PROJECT_DIR$/Fox Hollow 1st.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/foxHollow1st.html" />
-        <option value="$PROJECT_DIR$/FoxHollow3rd.html" />
-        <option value="$PROJECT_DIR$/FoxHollow4th.html" />
-        <option value="$PROJECT_DIR$/FoxHollow5th.html" />
-        <option value="$PROJECT_DIR$/FoxHollow6th.html" />
-        <option value="$PROJECT_DIR$/Kindergarten.html" />
-        <option value="$PROJECT_DIR$/foxHollow2nd.html" />
         <option value="$PROJECT_DIR$/ContactMe.html" />
         <option value="$PROJECT_DIR$/ProfessionalDevelopment.html" />
         <option value="$PROJECT_DIR$/musicDevelopment.html" />
         <option value="$PROJECT_DIR$/artDevelopment.html" />
         <option value="$PROJECT_DIR$/dramaDevelopment.html" />
         <option value="$PROJECT_DIR$/danceDevelopment.html" />
-        <option value="$PROJECT_DIR$/MusicStyle.css" />
         <option value="$PROJECT_DIR$/Discloser.html" />
         <option value="$PROJECT_DIR$/PracticeCharts.html" />
+        <option value="$PROJECT_DIR$/MusicStyle.css" />
         <option value="$PROJECT_DIR$/FoxHollow.html" />
+        <option value="$PROJECT_DIR$/foxHollow1st.html" />
+        <option value="$PROJECT_DIR$/Kindergarten.html" />
+        <option value="$PROJECT_DIR$/foxHollow2nd.html" />
+        <option value="$PROJECT_DIR$/FoxHollow3rd.html" />
+        <option value="$PROJECT_DIR$/FoxHollow4th.html" />
+        <option value="$PROJECT_DIR$/FoxHollow5th.html" />
+        <option value="$PROJECT_DIR$/FoxHollow6th.html" />
       </list>
     </option>
   </component>
@@ -344,7 +345,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517447140909</updated>
-      <workItem from="1517447145773" duration="14593000" />
+      <workItem from="1517447145773" duration="20622000" />
     </task>
     <task id="LOCAL-00001" summary="Created all the pages and inserted the CSS for the grids and menu bars.">
       <created>1517448408206</created>
@@ -388,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517518245995</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trying to center the bullets on Kindergarten.">
+      <created>1517520816596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517520816596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14593000" />
+    <option name="totallyTimeSpent" value="20622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="117" width="1936" height="1096" extended-state="6" />
@@ -429,53 +437,14 @@
     <MESSAGE value="Contact Us and all Professional Development is DONE" />
     <MESSAGE value="Disclosure done" />
     <MESSAGE value="Finished Practice Chart. Added Images. Working on the Fox Hollow Home page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Practice Chart. Added Images. Working on the Fox Hollow Home page." />
+    <MESSAGE value="Trying to center the bullets on Kindergarten." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to center the bullets on Kindergarten." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FoxHollow4th.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxHollow5th.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxHollow6th.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foxHollow1st.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxHollow3rd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ContactMe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1258,21 +1227,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kindergarten.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticeCharts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1282,25 +1243,9 @@
         <state relative-caret-position="493">
           <caret line="35" column="9" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="35" selection-end-column="9" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foxHollow2nd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusicStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1312,11 +1257,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MusicStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="130" column="17" lean-forward="false" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxHollow1st.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1146#1152#0" expanded="true" />
+            <element signature="e#1357#1362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kindergarten.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1151#1157#0" expanded="true" />
+            <element signature="e#1442#1447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxHollow2nd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1576#1582#0" expanded="true" />
+            <element signature="e#1837#1842#0" expanded="true" />
+            <element signature="e#3995#4001#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxHollow3rd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="86" lean-forward="false" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#span#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1572#1578#0" expanded="true" />
+            <element signature="e#1783#1788#0" expanded="true" />
+            <element signature="e#10345#10350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxHollow4th.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" column="86" lean-forward="false" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3390#3396#0" expanded="true" />
+            <element signature="e#3601#3606#0" expanded="true" />
+            <element signature="e#3813#3819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FoxHollow.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="70" column="88" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="70" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxHollow5th.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxHollow6th.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-          <folding />
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
