@@ -24,7 +24,7 @@ nav ul{
     padding: 0;
     overflow: hidden;
     align: center;
-    background-color: #dddddd;
+    background-color: #cccccc;
 }
 
 nav li{
@@ -35,7 +35,7 @@ nav li{
 
 nav li a{
     display: block;
-    padding: 10px 150px;
+    padding: 10px 100px;
     font-family: fantasy;
 }
 
@@ -44,7 +44,7 @@ nav li a:hover:not(.active){
 }
 
 .active{
-    background-color: #bbbbbb;
+    background-color: #aaaaaa;
 }
 
 footer {
@@ -52,8 +52,8 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    padding 1rem;
-    background-color: #dddddd;
+    padding: 1rem;
+    background-color: #cccccc;
 
 }
 
@@ -71,6 +71,7 @@ footer {
 
 img{
     max-width: 100%;
+    min-width: auto;
     width: auto\9; /*ie8 */
 }
 
