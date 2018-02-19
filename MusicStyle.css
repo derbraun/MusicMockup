@@ -57,6 +57,16 @@ footer {
 
 }
 
+form{
+    padding-left: 50px;
+
+}
+
+input[type=search] {
+    width: 70%;
+
+}
+
 .main {
     margin: 0 auto;
     padding-top: 64px;

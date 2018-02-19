@@ -2,22 +2,29 @@ $(document).ready(function () {
     console.log("Spotify Ready");
 
     $("#listenButton").click(function (e) {
-        e.preventDefault();
+
         console.log("I was clicked");
 
         var value = $("#artist").val();
         console.log("Sending Query");
         console.log("The value is: " + value);
+        var spotifyAccessToken = "BQDdeLdqtHRFHYpVyvh8U3DVplAfNC2iRQaOHzGV8z5sbNuXApZMI_5zJInceHGQsIMnz2BFhJGJZXlumRaWuQPOrjjfN1_m0SEYkn0gAZrlqrONEjb4gYD3Ohjr89faUMa-NokL7Oe9GwoA";
 
-        var data = "";
+        $.ajaxSetup({
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader("Accept", "application/json");
+                xhr.setRequestHeader ("Authorization", spotifyAccessToken);
+                console.log("In before send");
+            }
+
+        });
+
 
         $.ajax({
             url: "https://api.spotify.com/v1/search?q=" + value + "&type=artist",
-            beforeSend: function (data) {
-                data.setRequestHeader("Authorization", "Bearer BQD2R54h7X4z3WB5CWkXXuOAZfD0AoEvcGKdxxookA_gt3Hn78O7T882jhh0Mj6JjZfZnpdzlvBSsMJiW2mVyKYHMUzE5YzyoShy4L2DK1mO3lcgHqDvz0a5MnIVi--vkBGIqgw7lw3A6XP4");
-                console.log("in beforeSend");
-                },
-            dataType: "json",
+            dataType: 'json',
+            type:'GET',
+
             success: function (data) {
 
                 console.log("success");
